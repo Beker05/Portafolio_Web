@@ -14,7 +14,7 @@ const whatsappMessage = encodeURIComponent(
   "Quisiera información para crear mi página web."
 );
 
-const whatsappLink = `https://wa.me/51966983121?text=${whatsappMessage}`;
+const whatsappLink = `https://wa.me/51935526653?text=${whatsappMessage}`;
 
   
   const contactInfo = [
