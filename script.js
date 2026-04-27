@@ -27,7 +27,7 @@ const whatsappLink = `https://wa.me/51966983121?text=${whatsappMessage}`;
   {
     icon: 'ri-whatsapp-line',
     title: 'WhatsApp',
-    value: '+51 966983121',
+    value: '+51 935526653',
     link: whatsappLink
   },
   {
